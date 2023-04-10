@@ -15,7 +15,9 @@ After that, VScode should be installed into you device :) <br />
 ### Remotely Connecting
 ![Image](VScodeImage.png)
 <br />
-
+The first step is to run VScode then open the terminal. <br />
+After that, type "ssh cs15lsp23zz@ieng6.ucsd.edu" into the terminal. <br />
+Finally, enter you're CSE15L password 
 <br />
 <br />
 <br />
