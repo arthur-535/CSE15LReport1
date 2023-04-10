@@ -8,8 +8,10 @@
 >.      
 >.  
 >. 
+
 ### Remotely Connecting
 ![Image](VScodeImage.png)
+
 >. 
 >. 
 >. 
