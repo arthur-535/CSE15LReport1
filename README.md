@@ -18,6 +18,7 @@ After that, VScode should be installed into you device :) <br />
 The first step is to run VScode then open the terminal. <br />
 After that, type "ssh cs15lsp23zz@ieng6.ucsd.edu" into the terminal. <br />
 Finally, enter you're CSE15L password 
+*after many attempts, I was not not able to login :( 
 <br />
 <br />
 <br />
@@ -25,6 +26,12 @@ Finally, enter you're CSE15L password
 ### Trying Some Commands
 ![Image](VScodeTermiinal.png)
 <br />
-
+Once you login to the Remote Server. <br />
+You can use the commands "cd, ls, pwd, mkdir, and cp"
+1. cd: allows the user to move through directories
+2. ls: allows the user to view all the files in a directory
+3. pwd: shows the user the pathway to the directory from the User
+4. mkdir: allows the user to name and create a new directory 
+5. cp: allows the user to copy a directory
 <br />
 
