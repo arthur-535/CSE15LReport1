@@ -12,6 +12,8 @@ After that, VScode should be installed into you device :) <br />
 <br />
 <br />
 <br />
+<br />
+<br />
 
 
 ### Remotely Connecting
@@ -22,6 +24,20 @@ After that, type `ssh cs15lsp23zz@ieng6.ucsd.edu` into the terminal. <br />
 *Note: the "zz" for you to replace using your personal CSE15L account combination which you could find on [Account Login](https://sdacs.ucsd.edu/~icc/index.php)*
 <br />
 Finally, enter you're CSE15L password 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
